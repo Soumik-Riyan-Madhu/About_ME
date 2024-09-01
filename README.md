@@ -1,4 +1,10 @@
-### Hi There! ✌️ I am Soumik Riyan Madhu
-I'm a skilled and motivated Front-End Web Developer with over 5 years of experience in building responsive, user-friendly web applications. Throughout my career, I’ve made significant contributions to enterprise-level projects, focusing on delivering clean, maintainable code and intuitive user interfaces. My expertise spans across modern front-end technologies and frameworks, ensuring that every project I work on is both functional and aesthetically pleasing.
+<h1 align="center">Hi 👋, I'm Soumik Riyan Madhu</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-🛠️ Technologies & Tools: Languages: HTML, CSS, JavaScript, TypeScript Frameworks & Libraries: React, Angular, Vue.js, jQuery Version Control: Git Build Tools: Webpack, Gulp, Grunt CSS Preprocessors: SASS, LESS Design Tools: Adobe XD, Figma, Sketch Testing: Jest, Cypress, Mocha Deployment & Hosting: Netlify, Vercel, GitHub Pages 🌱 Currently Learning: Advanced JavaScript techniques and performance optimization Progressive Web Apps (PWAs) Web accessibility best practices 👯 Let's Collaborate: I love working in collaborative environments where I can share my knowledge and learn from others. If you have an exciting project in mind, feel free to reach out!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/soumikriyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumikriyan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
